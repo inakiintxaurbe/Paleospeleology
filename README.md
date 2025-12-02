@@ -3,7 +3,7 @@
 This repository contains the code "Paleospeleology.py," published firstly in the DOI: https://doi.org/10.1007/s12520-024-02007-3.
 
 You must create a folder named as "C/Paleospeleology" in your "C" Folder, and paste the files found in the "0_Input" folder, along with the code.
-To find the code: https://github.com/inakiintxaurbe/spatial-organization-patterns-related-to-magdalenian-cave-art/blob/master/1%20GIS/Script.py
+To find the code: https://github.com/inakiintxaurbe/Paleospeleology/blob/master/Paleospeleology.py
 
 <img width="1134" alt="image" src="https://github.com/inakiintxaurbe/GIS_Test_Santimami-e_Old_Chamber_of_Paintings/assets/88764409/d4da7e3c-71e2-4a6a-86b5-90eb44e213a6">
 
