@@ -2,6 +2,8 @@
 
 This repository contains the code "Paleospeleology.py," published firstly in the DOI: https://doi.org/10.1007/s12520-024-02007-3.
 
+Copyright (C) 2024  Iñaki Intxaurbe
+
 You must create a folder named as "C/Paleospeleology" in your "C" Folder, and paste the files found in the "0_Input" folder, along with the code.
 To find the code: https://github.com/inakiintxaurbe/Paleospeleology/blob/master/Paleospeleology.py
 
