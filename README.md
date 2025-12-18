@@ -1,8 +1,33 @@
-# script "Paleospeleology" created by I. Intxaurbe (2024) for its use in ArcGIS 
+# script "Paleospeleology" for its use in ArcGIS 
+
+
+**Created by**: Iñaki Intxaurbe Alberdi
+
+*Department of Graphic Design and Engineering Projects*
+
+*(Universidad del País Vasco/Euskal Herriko Unibertsitatea)*
+
+*PACEA UMR 5199*
+
+*(Université du Bordeaux)*
+
+**e-mail**: inaki.intxaurbe@ehu.eus; inaki.intxaurbe@u-bordeaux.fr; inaki.intxaurbe@gmail.com
+
+**ORDICD nº**: https://orcid.org/0000-0003-3643-3177
+
+**Date**: 2022-06-04
+
+*Copyright (C) 2022  Iñaki Intxaurbe*
+
+This repository contains R scripts and data workflows developed to analyze the archaeological evidence of human use of caves during the Pleistocene. 
+The project combines quantitative statistical methods, correspondence and multivariate analyses, and data visualization to explore relationships 
+between cultural evidences, cave depth, and accessibility.
+
+## Overview
 
 This repository contains the code "Paleospeleology.py," published firstly in the DOI: https://doi.org/10.1007/s12520-024-02007-3.
 
-Copyright (C) 2024  Iñaki Intxaurbe
+## How to install and work
 
 You must create a folder named as "C/Paleospeleology" in your "C" Folder, and paste the files found in the "0_Input" folder, along with the code.
 To find the code: https://github.com/inakiintxaurbe/Paleospeleology/blob/master/Paleospeleology.py
