@@ -19,13 +19,12 @@
 
 *Copyright (C) 2022  Iñaki Intxaurbe*
 
+## Overview
+
 This repository contains R scripts and data workflows developed to analyze the archaeological evidence of human use of caves during the Pleistocene. 
 The project combines quantitative statistical methods, correspondence and multivariate analyses, and data visualization to explore relationships 
 between cultural evidences, cave depth, and accessibility.
-
-## Overview
-
-This repository contains the code "Paleospeleology.py," published firstly in the DOI: https://doi.org/10.1007/s12520-024-02007-3.
+It was published firstly in the DOI: https://doi.org/10.1007/s12520-024-02007-3.
 
 ## How to install and work
 
